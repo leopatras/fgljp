@@ -1,4 +1,10 @@
 # fgljp/fglssh
+This repository is no more active.
+
+Please use the fork at
+
+https://github.com/FourjsGenero/tool_fgljp
+
 Genero GAS like proxy to run GBC programs from the command line
 fgl (j)ava (p)roxy 
 Uses loads of IMPORT JAVA 
